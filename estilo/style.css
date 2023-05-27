@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: Akkurat;
-    src: url('/desafio_012/fontes/Akkurat.otf') format('opentype');
+    src: url('/fontes/Akkurat.otf') format('opentype');
     font-weight: normal;
 }
 
@@ -91,13 +91,13 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(/desafio_012/imagens/background001.jpg);
+    background-image: url('/imagens/background001.jpg');
     background-position: right center;
     
 }
 
 section#img02 {
-    background-image: url(/desafio_012/imagens/background002.jpg);
+    background-image: url('/imagens/background002.jpg');
 }
 
 footer {
